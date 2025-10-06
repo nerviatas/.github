@@ -1,6 +1,6 @@
 # Nerviatas Cybernetics
 
-Firmware. Control. Sovereignty.
+_Firmware. Control. Sovereignty._
 
 Nerviatas unites a new class of neuro‑technologies: neural interfaces, intelligent firmware,
 and control systems that restore, extend, and dignify human capability.
@@ -9,7 +9,7 @@ Our engineering ethos is forged in Stoic and Roman virtues. Designs that are dis
 resilient, and refined rather than flashy or loud.
 
 We value anatomical elegance, data sovereignty, and uphold a _Codex Virtutum_ that describes
-the _Guiding Principles for Ethical Cybernetics_ which can be viewed here: https://nerviatas.com/codex.
+the _Guiding Principles for Ethical Cybernetics_, which can be viewed here: https://nerviatas.com/codex.
 
 ## What we do
 
@@ -54,3 +54,7 @@ Nerviatas Cybernetics. All rights reserved.
 
 Use of any public code in this organization is governed by the license file in the respective repository.
 If a repo does not include a license file then it is not licensed for reuse.
+
+Our **Privacy Policy** can be found at https://nerviatas.com/privacy, and our **Terms & Conditions** can be found at https://nerviatas.com/terms.
+
+If you have any questions feel free to contact us at privacy@nerviatas.com or legal@nerviatas.com.

@@ -40,7 +40,6 @@ reach out. Tell us what you have built and what you want to build next.
 
 - Email: hello@nerviatas.com
 - Site: https://nerviatas.com
-- GitHub Issues for public discussion
 
 ## Responsible use
 

@@ -21,13 +21,6 @@ Our focus is robustness, low latency, and clear engineering you can inspect and 
 Prosthetic control usually trades speed for stability. We do both. Research teams need quick iteration.
 Users need reliability every time they move. Our stack serves both needs without hidden magic.
 
-## Design values
-
-- Tight control loops with clear safety limits
-- Deterministic dataflows that you can replay
-- Logs and metrics first. Features second
-- Replace any part without breaking the rest
-
 ## What is open here
 
 You will find high level docs, example schemas, and small utilities that help the community.

@@ -1,7 +1,5 @@
 # Nerviatas Cybernetics
 
-_Firmware. Control. Sovereignty._
-
 Nerviatas unites a new class of neuro‑technologies: neural interfaces, intelligent firmware,
 and control systems that restore, extend, and dignify human capability.
 

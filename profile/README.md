@@ -2,13 +2,6 @@
 
 ![NERVIATAS//404](assets/nervi-banner-ritus-p01.svg)
 
-```txt
-[ // ]        NERVIATAS // RITUS: PUBLIC-PROTOCOLS
-              PROTOCOL: P-01
-              REV:      1.0.9
-
-```
-
 Nerviatas unites a new class of neuro‑technologies: neural interfaces,
 intelligent firmware, and control systems that restore, extend, and dignify
 human capability.

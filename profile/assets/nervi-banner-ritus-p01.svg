@@ -2,9 +2,9 @@
   <!-- Background -->
   <rect x="0" y="0" width="960" height="200" fill="#05070A" />
 
-  <!-- Right block: data-plate text -->
+  <!-- Right block: data-plate style text -->
   <!-- Main title -->
-  <text x="200" y="90"
+  <text x="50" y="70"
         fill="#E6DED1"
         font-family="monospace"
         font-size="28"
@@ -13,21 +13,28 @@
   </text>
 
   <!-- Divider line -->
-  <line x1="200" y1="100" x2="920" y2="100"
+  <line x1="50" y1="80" x2="910" y2="80"
         stroke="#E6DED1" stroke-width="1" stroke-dasharray="4 4" />
 
   <!-- Sub-lines -->
-  <text x="200" y="135"
-        fill="#9EA3AE"
-        font-family="monospace"
-        font-size="16">
-    COHORT: DOCS | N/A
-  </text>
-
-  <text x="200" y="160"
+  <text x="50" y="115"
         fill="#9EA3AE"
         font-family="monospace"
         font-size="16">
     RITUS: P-01  |  FAULT CODEX: N/A
+  </text>
+
+  <text x="50" y="140"
+        fill="#9EA3AE"
+        font-family="monospace"
+        font-size="16">
+    COHORT: DOCS
+  </text>
+
+    <text x="50" y="165"
+        fill="#9EA3AE"
+        font-family="monospace"
+        font-size="16">
+    REV // 1.0.9
   </text>
 </svg>

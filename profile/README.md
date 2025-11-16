@@ -1,6 +1,6 @@
 # NERVIATAS // CYBERNETICS
 
-![](assets/nervi-banner-ritus-p01.svg)
+![NERVIATAS//404](assets/nervi-banner-ritus-p01.svg)
 
 ```txt
 [ // ]        NERVIATAS // RITUS: PUBLIC-PROTOCOLS

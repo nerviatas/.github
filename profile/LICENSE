@@ -1,0 +1,130 @@
+NERVIATAS PUBLIC REPOSITORY PROPRIETARY NOTICE
+==============================================
+
+Repository:  .github (public-facing configuration and documentation)
+Owner:       Nerviatas
+Year:        2025
+Rights:      All rights reserved.
+
+
+SECTION I // NATURE OF THIS REPOSITORY
+---------------------------------------
+
+This repository contains public-facing materials for Nerviatas, including
+but not limited to:
+
+- Organization-wide GitHub configuration
+- Issue and pull request templates
+- Continuous integration / workflow definitions
+- Documentation and branding assets
+- Other meta-level resources for Nerviatas projects
+
+This repository is public for transparency and integration with GitHub
+workflows. It is **not** an open-source codebase and does **not** grant
+general reuse rights over its contents.
+
+
+SECTION II // PROPRIETARY STATUS
+---------------------------------
+
+Except where explicitly stated otherwise in specific files, all content in
+this repository is:
+
+- Confidential or proprietary information of Nerviatas, or
+- Copyrighted creative work (text, design, structure) of Nerviatas.
+
+Copyright (c) 2025 Nerviatas.  
+All rights reserved.
+
+NO LICENSE IS GRANTED OR IMPLIED BY THIS NOTICE EXCEPT AS EXPRESSLY
+DESCRIBED IN SECTION III (LIMITED PERMISSIONS) BELOW.
+
+
+SECTION III // LIMITED PERMISSIONS (GITHUB PARTICIPATION ONLY)
+---------------------------------------------------------------
+
+Subject to any contrary terms in a separate written agreement with
+Nerviatas, you are granted a **limited, revocable permission** to:
+
+1. Clone or fork this repository **solely** for the purpose of:
+   - Contributing to Nerviatas projects (e.g., opening pull requests,
+     testing workflows, proposing improvements), or
+   - Integrating with GitHub features that rely on the .github repository
+     (e.g., issue templates, workflows for Nerviatas-owned projects).
+
+2. View and locally evaluate configuration files, templates, and docs for
+   the purpose of interacting with Nerviatas projects.
+
+You may **not**, without prior written permission from Nerviatas:
+
+- Copy, reuse, or redistribute the contents of this repository in your own
+  projects, organizations, or products.
+- Rebrand or adapt the templates, text, or design elements as if they were
+  generic community assets.
+- Use any Nerviatas names, logos, or branding in a way that suggests
+  endorsement, affiliation, or sponsorship.
+
+
+SECTION IV // TRADEMARKS & BRANDING
+-------------------------------------
+
+Nerviatas names, logos, sigils (including but not limited to the double
+slash sigil and any Nerve Delta designs), and visual identity elements are
+trademarks or trade dress of Nerviatas.
+
+Nothing in this repository grants:
+
+- Any license to use Nerviatas marks in commerce, or
+- Any right to present yourself or your organization as Nerviatas, as a
+  Nerviatas partner, or as endorsed by Nerviatas.
+
+Any permitted reference to Nerviatas should be descriptive only, such as
+in the context of contributing to Nerviatas-owned projects on GitHub.
+
+
+SECTION V // NO WARRANTY
+-------------------------
+
+To the maximum extent permitted by applicable law:
+
+- THIS REPOSITORY AND ALL CONTENTS ARE PROVIDED "AS IS", WITHOUT WARRANTY
+  OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+  WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+  NON-INFRINGEMENT.
+
+- NERVIATAS AND ITS CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY CLAIM,
+  DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+  OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE REPOSITORY OR
+  THE USE OR OTHER DEALINGS WITH ITS CONTENTS.
+
+
+SECTION VI // RELATIONSHIP TO OTHER LICENSES
+---------------------------------------------
+
+This notice governs the `.github` repository itself.
+
+It does **not** alter or override:
+
+- The licenses or proprietary notices that apply to other Nerviatas
+  repositories, or
+- Any separate written agreements between you and Nerviatas.
+
+If any individual file in this repository includes its own explicit
+license notice (for example, a third-party workflow under MIT), that
+file’s specific license applies **only** to that file, to the extent
+stated in its notice.
+
+
+SECTION VII // JURISDICTION & INTERPRETATION
+---------------------------------------------
+
+Interpretation and enforcement of this notice are governed by the laws and
+jurisdiction(s) applicable to Nerviatas, or as specified in any separate
+written agreement between you and Nerviatas.
+
+If any part of this notice is held invalid or unenforceable, the remaining
+parts remain in full force and effect.
+
+
+END OF NOTICE
+-------------

@@ -65,8 +65,19 @@ If you have any questions feel free to contact us at `privacy@nerviatas.com` or
 `legal@nerviatas.com`.
 
 ---
+<!-- prettier-ignore -->
+<!-- markdownlint-disable -->
+NERVIATAS // COPYRIGHT NOTICE
+────────────────────────────────────
+  Project:  NERVI-GITHUB
+  Cohort:   PROTOCOL 
+  Year:     2025
 
-> **NERVIATAS ORDINANCE // DATA-PLATE**  
-> _“Reliability by ritual. Precision by design.”_
+  © 2025 Nerviatas. All rights reserved.
+  Use, copying, or distribution is
+  permitted only under the proprietary
+  terms described in LICENSE.
+────────────────────────────────────
 
-Nerviatas Cybernetics. All rights reserved.
+**NERVIATAS ORDINANCE // DATA-PLATE**  
+_“Reliability by ritual. Precision by design.”_

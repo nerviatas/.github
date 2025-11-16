@@ -1,3 +1,15 @@
+<!--
+  NERVIATAS // RITE PLATE : SVG
+
+  Asset:    nervi-banner-ritus-p01.svg
+  Cohort:   INTERNAL // CONTROLLED DISTRIBUTION
+  Year:     2025
+
+  © 2025 Nerviatas. All rights reserved.
+  This SVG is proprietary Nerviatas material.
+  No license is granted or implied by this notice.
+  See LICENSE in the parent project for terms.
+-->
 <svg width="960" height="200" viewBox="0 0 960 200" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
   <rect x="0" y="0" width="960" height="200" fill="#05070A" />
@@ -37,4 +49,11 @@
         font-size="16">
     REV // 1.0.9
   </text>
+  <metadata>
+    © 2025 Nerviatas. All rights reserved.
+    This SVG is proprietary Nerviatas material.
+    No license is granted or implied by this notice.
+    See LICENSE in the parent project for terms.
+  </metadata>
 </svg>
+

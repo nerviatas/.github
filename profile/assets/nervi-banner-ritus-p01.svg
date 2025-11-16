@@ -1,0 +1,33 @@
+<svg width="960" height="200" viewBox="0 0 960 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="960" height="200" fill="#05070A" />
+
+  <!-- Right block: data-plate text -->
+  <!-- Main title -->
+  <text x="200" y="90"
+        fill="#E6DED1"
+        font-family="monospace"
+        font-size="28"
+        letter-spacing="3">
+    NERVIATAS // PUBLIC-PROTOCOL
+  </text>
+
+  <!-- Divider line -->
+  <line x1="200" y1="100" x2="920" y2="100"
+        stroke="#E6DED1" stroke-width="1" stroke-dasharray="4 4" />
+
+  <!-- Sub-lines -->
+  <text x="200" y="135"
+        fill="#9EA3AE"
+        font-family="monospace"
+        font-size="16">
+    COHORT: DOCS | N/A
+  </text>
+
+  <text x="200" y="160"
+        fill="#9EA3AE"
+        font-family="monospace"
+        font-size="16">
+    RITUS: P-01  |  FAULT CODEX: N/A
+  </text>
+</svg>

@@ -1,3 +1,14 @@
+<!--
+  NERVIATAS // PUBLIC REPO NOTICE
+
+  RITUS:  P-01
+  COHORT: PROTOCOL
+
+  This documentation is published for transparency and interaction with
+  Nerviatas projects on GitHub. It is not a grant of rights to reuse or
+  rebrand the content. See LICENSE in this repository for terms.
+-->
+
 # NERVIATAS // CYBERNETICS
 
 ![NERVIATAS//404](assets/nervi-banner-ritus-p01.svg)
@@ -66,22 +77,10 @@ If you have any questions feel free to contact us at `privacy@nerviatas.com` or
 
 ---
 
-<!-- prettier-ignore -->
-<!-- markdownlint-disable -->
-
-```txt
-NERVIATAS // COPYRIGHT NOTICE
-────────────────────────────────────
-  Project:  NERVI-GITHUB
-  Cohort:   PROTOCOL
-  Year:     2025
-
-  © 2025 Nerviatas. All rights reserved.
-  Use, copying, or distribution is
-  permitted only under the proprietary
-  terms described in LICENSE.
-────────────────────────────────────
-```
-
 > **NERVIATAS ORDINANCE // DATA-PLATE**  
 > _“Reliability by ritual. Precision by design.”_
+
+<!--
+  © 2025 Nerviatas. All rights reserved.
+  Use of this document is governed by the terms in LICENSE.
+-->

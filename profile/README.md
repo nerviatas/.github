@@ -66,6 +66,8 @@ If you have any questions feel free to contact us at `privacy@nerviatas.com` or
 
 ---
 
+![NERVIATAS//404](assets/nervi-name.svg)
+
 > **NERVIATAS ORDINANCE // DATA-PLATE**  
 > _“Reliability by ritual. Precision by design.”_
 

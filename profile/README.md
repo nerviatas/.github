@@ -77,10 +77,14 @@ If you have any questions feel free to contact us at `privacy@nerviatas.com` or
 
 ---
 
-> **NERVIATAS ORDINANCE // DATA-PLATE**  
+> **NERVI//ATAS**  
 > _“Reliability by ritual. Precision by design.”_
 
 <!--
-  © 2025 Nerviatas. All rights reserved.
-  Use of this document is governed by the terms in LICENSE.
+  NERVIATAS PROPRIETARY // MARKDOWN DOCUMENT
+  Copyright (c) 2025 Nerviatas. All rights reserved.
+
+  This file and its contents are confidential and proprietary to Nerviatas.
+  No license is granted or implied by this notice. Use, copying, modification,
+  or distribution is permitted only under the terms described in LICENSE.
 -->

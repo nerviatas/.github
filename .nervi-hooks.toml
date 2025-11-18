@@ -1,0 +1,19 @@
+# NERVIATAS PROPRIETARY // TOML
+# Copyright (c) 2025 Nerviatas. All rights reserved.
+#
+# This file and its contents are confidential and proprietary to Nerviatas.
+# No license is granted or implied by this notice. Use, copying, modification,
+# or distribution is permitted only under the terms described in LICENSE.
+
+[files]
+include_ext = ["py", "rs", "go", "toml", "yaml", "yml", "conf", "md", "svg"]
+
+exclude = ["external/**", "out/**", "build/**"]
+
+[markers]
+license = [
+  "NERVIATAS PROPRIETARY",
+  "Nerviatas Proprietary License",
+  "NERVIATAS PUBLIC REPO NOTICE",
+  "NERVIATAS PUBLIC REPOSITORY PROPRIETARY NOTICE",
+]

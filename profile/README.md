@@ -77,8 +77,7 @@ If you have any questions feel free to contact us at `privacy@nerviatas.com` or
 
 ---
 
-> **NERVI//ATAS**  
-> _“Reliability by ritual. Precision by design.”_
+> **NERVI // ATAS** | _“Reliability by ritual. Precision by design.”_
 
 <!--
   NERVIATAS PROPRIETARY // MARKDOWN DOCUMENT

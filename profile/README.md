@@ -9,9 +9,9 @@
   rebrand the content. See LICENSE in this repository for terms.
 -->
 
-# NERVIATAS // CYBERNETICS
-
 ![NERVIATAS//404](assets/nervi-banner-ritus-p01.svg)
+
+<!-- # NERVIATAS // CYBERNETICS -->
 
 > “Every limb belongs to a greater body.” - N.
 

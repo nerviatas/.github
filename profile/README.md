@@ -11,11 +11,9 @@
 
 # Public Protocol
 
-![NERVIATAS//404](assets/nervi-banner-ritus-p01.svg)
+![NERVIATAS // 404](assets/nervi-banner-ritus-p01.svg)
 
 <!-- # NERVIATAS // CYBERNETICS -->
-
-> “Every limb belongs to a greater body.”
 
 ## 00 // Who are we
 
@@ -30,7 +28,9 @@ We value anatomical elegance, data & human sovereignty, and rigorous
 constraints. Power without constraint is failure. We're not here to fail.
 
 We uphold a _Codex Virtutum_ that describes the _Guiding Principles for Ethical
-Cybernetics_. View it here: [NERVIATAS//CODEX](https://nerviatas.com/codex).
+Cybernetics_. View it here: [NERVIATAS // CODEX](https://nerviatas.com/codex).
+
+> “Every limb belongs to a greater body.”
 
 ## 01 // What we do
 
@@ -43,7 +43,7 @@ verifiable.
 Prosthetic control trades speed for stability. Research teams need quick
 iteration. Users need reliability every time they move. Our stack serves both
 needs without hidden magic. We're not here to trade. We're here to build a new
-system. **The Nerviatas System**.
+system. _The Nerviatas System_.
 
 ## 03 // What is open here
 
@@ -58,7 +58,7 @@ direction resonates, reach out. Tell us what you have built and what you want to
 build next.
 
 - Email: `hello@nerviatas.com`
-- Site: [NERVIATAS//CYBERNETICS](https://nerviatas.com)
+- Site: [NERVIATAS // CYBERNETICS](https://nerviatas.com)
 
 ## 05 // Responsible use
 
@@ -74,8 +74,8 @@ the respective repository. If a repo does not include a license file then it is
 not licensed for reuse.
 
 Our **Privacy Policy** can be found at
-[NERVIATAS//PRIVACY](https://nerviatas.com/privacy), and our **Terms &
-Conditions** can be found at [NERVIATAS//TERMS](https://nerviatas.com/terms).
+[NERVIATAS // PRIVACY](https://nerviatas.com/privacy), and our **Terms &
+Conditions** can be found at [NERVIATAS // TERMS](https://nerviatas.com/terms).
 
 If you have any questions feel free to contact us at `privacy@nerviatas.com` or
 `legal@nerviatas.com`.

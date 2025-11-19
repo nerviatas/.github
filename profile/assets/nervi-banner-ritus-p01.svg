@@ -10,11 +10,7 @@
   See LICENSE in the parent project for terms.
 -->
 <svg width="960" height="200" viewBox="0 0 960 200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
   <rect x="0" y="0" width="960" height="200" fill="#05070A" />
-
-  <!-- Right block: data-plate style text -->
-  <!-- Main title -->
   <text x="50" y="70"
         fill="#E6DED1"
         font-family="monospace"
@@ -22,26 +18,20 @@
         letter-spacing="3">
     NERVIATAS // PUBLIC-PROTOCOL
   </text>
-
-  <!-- Divider line -->
   <line x1="50" y1="80" x2="910" y2="80"
         stroke="#E6DED1" stroke-width="1" stroke-dasharray="4 4" />
-
-  <!-- Sub-lines -->
   <text x="50" y="115"
         fill="#9EA3AE"
         font-family="monospace"
         font-size="16">
     RITUS: P-01
   </text>
-
   <text x="50" y="140"
         fill="#9EA3AE"
         font-family="monospace"
         font-size="16">
     COHORT: PUBLIC / CONTROLLED DISTRIBUTION
   </text>
-
     <text x="50" y="165"
         fill="#9EA3AE"
         font-family="monospace"

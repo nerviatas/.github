@@ -13,6 +13,10 @@
 
 ![NERVIATAS//404](assets/nervi-banner-ritus-p01.svg)
 
+> “Every limb belongs to a greater body.” - N.
+
+## I // Who are we
+
 Nerviatas unites a new class of neuro‑technologies: neural interfaces,
 intelligent firmware, and control systems that restore, extend, and dignify
 human capability.
@@ -26,27 +30,26 @@ constraints. Power without constraint is failure. We're not here to fail.
 We uphold a _Codex Virtutum_ that describes the _Guiding Principles for Ethical
 Cybernetics_. View it here: [NERVIATAS//CODEX](https://nerviatas.com/codex).
 
-> “Every limb belongs to a greater body.” - Us.
-
-## 00 // What we do
+## II // What we do
 
 We build responsive prosthetics and human augmentation. Our focus is robustness,
 low-latency, fault-tolerance, and engineering that is transparent and
 verifiable.
 
-## 01 // Why this matters
+## III // Why this matters
 
 Prosthetic control trades speed for stability. Research teams need quick
 iteration. Users need reliability every time they move. Our stack serves both
-needs without hidden magic. We're not here to trade.
+needs without hidden magic. We're not here to trade. We're here to build a new
+system. **The Nerviatas System**.
 
-## 02 // What is open here
+## IV // What is open here
 
 You will find high level docs, example schemas, and small utilities that help
 the community. Core production code lives in private repos. We publish what is
 useful to others and does not create safety risk.
 
-## 03 // Work with us
+## V // Work with us
 
 If you work in prosthetics, control, embedded, perception, or tooling and this
 direction resonates, reach out. Tell us what you have built and what you want to
@@ -55,14 +58,14 @@ build next.
 - Email: `hello@nerviatas.com`
 - Site: [NERVIATAS//CYBERNETICS](https://nerviatas.com)
 
-## 04 // Responsible use
+## VI // Responsible use
 
 We build systems that interact with people. Any use must include risk analysis,
 limits, and supervised validation. Do not deploy our examples on devices that
 can harm users or bystanders. Test offline first. Then hardware in the loop.
 Then field trials with proper oversight.
 
-## 05 // Legal
+## VII // Legal
 
 Use of any public code in this organization is governed by the license file in
 the respective repository. If a repo does not include a license file then it is

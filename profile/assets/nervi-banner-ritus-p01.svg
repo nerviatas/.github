@@ -1,11 +1,9 @@
 <!--
-  NERVIATAS // RITE PLATE
-
-  Asset:    nervi-banner-ritus-p01.svg
-  Cohort:   INTERNAL / CONTROLLED DISTRIBUTION
-  Year:     2025
-
   NERVIATAS PROPRIETARY // SVG
+
+  ASSET:    nervi-banner-ritus-p01.svg
+  COHORT:   PUBLIC / CONTROLLED DISTRIBUTION
+
   © 2025 Nerviatas. All rights reserved.
   This SVG is proprietary Nerviatas material.
   No license is granted or implied by this notice.
@@ -34,21 +32,21 @@
         fill="#9EA3AE"
         font-family="monospace"
         font-size="16">
-    RITUS: P-01  |  FAULT CODEX: WATCHFUL
+    RITUS: P-01
   </text>
 
   <text x="50" y="140"
         fill="#9EA3AE"
         font-family="monospace"
         font-size="16">
-    COHORT: PROTOCOL
+    COHORT: PUBLIC / CONTROLLED DISTRIBUTION
   </text>
 
     <text x="50" y="165"
         fill="#9EA3AE"
         font-family="monospace"
         font-size="16">
-    REV // 1.0.9
+    REV // 1.1.0
   </text>
   <metadata>
     NERVIATAS PROPRIETARY // SVG

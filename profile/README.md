@@ -30,7 +30,7 @@ constraints. Power without constraint is failure. We're not here to fail.
 We uphold a _Codex Virtutum_ that describes the _Guiding Principles for Ethical
 Cybernetics_. View it here: [NERVIATAS // CODEX](https://nerviatas.com/codex).
 
-> “Every limb belongs to a greater body.”
+> “Every limb belongs to a greater body.” -Nerviatas.
 
 ## 01 // What we do
 
